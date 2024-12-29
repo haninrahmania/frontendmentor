@@ -1,0 +1,19 @@
+.card {
+    background: var(--color-white);
+    border-radius: 20px;
+    height: 499px;
+    width: 320px;
+    padding-top: 16px;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-bottom: 40px;
+    margin: auto;
+    
+}
+
+.qr {
+    width: 288px;
+    height: 288px;
+    border-radius: 10px;
+    margin-bottom: 24px;
+}
